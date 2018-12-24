@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.8.0"
+github "ReactiveX/RxSwift" "4.4.0"
+github "RxSwiftCommunity/RxSwiftExt" "3.4.0"
+github "RxSwiftCommunity/RxSwiftUtilities" "2.1.0"
+github "kaishin/Gifu" "v3.2.0"
+github "kean/Nuke" "7.5.1"

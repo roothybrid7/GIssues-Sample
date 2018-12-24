@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire"
+github "ReactiveX/RxSwift"
+github "kean/Nuke"
+github "kaishin/Gifu"
+github "RxSwiftCommunity/RxSwiftExt"
+github "RxSwiftCommunity/RxSwiftUtilities"

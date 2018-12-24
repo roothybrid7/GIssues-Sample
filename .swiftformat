@@ -1,0 +1,5 @@
+--allman false
+--disable ranges,blankLinesAtStartOfScope,blankLinesAroundMark,hoistPatternLet,redundantSelf,sortedImports,strongOutlets,unusedArguments,redundantBackticks,trailingCommas
+--exclude Example/Pods
+--ifdef noindent
+--comments ignore
